@@ -1,0 +1,861 @@
+{
+  "_id": "10006546",
+  "listing_url": "https://www.airbnb.com/rooms/10006546",
+  "name": "Ribeira Charming Duplex",
+  "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+  "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
+  "house_rules": "Make the house your home...",
+  "property_type": "House",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "30",
+  "cancellation_policy": "moderate",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1451797200000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1547960400000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "8"
+  },
+  "bedrooms": {
+    "$numberInt": "3"
+  },
+  "beds": {
+    "$numberInt": "5"
+  },
+  "number_of_reviews": {
+    "$numberInt": "51"
+  },
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "TV",
+    "Cable TV",
+    "Wifi",
+    "Kitchen",
+    "Paid parking off premises",
+    "Smoking allowed",
+    "Pets allowed",
+    "Buzzer/wireless intercom",
+    "Heating",
+    "Family/kid friendly",
+    "Washer",
+    "First aid kit",
+    "Fire extinguisher",
+    "Essentials",
+    "Hangers",
+    "Hair dryer",
+    "Iron",
+    "Pack ’n Play/travel crib",
+    "Room-darkening shades",
+    "Hot water",
+    "Bed linens",
+    "Extra pillows and blankets",
+    "Microwave",
+    "Coffee maker",
+    "Refrigerator",
+    "Dishwasher",
+    "Dishes and silverware",
+    "Cooking basics",
+    "Oven",
+    "Stove",
+    "Cleaning before checkout",
+    "Waterfront"
+  ],
+  "price": {
+    "$numberDecimal": "80.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "200.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "35.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "15.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "6"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/e83e702f-ef49-40fb-8fa0-6512d7e26e9b.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "51399391",
+    "host_url": "https://www.airbnb.com/users/show/51399391",
+    "host_name": "Ana&Gonçalo",
+    "host_location": "Porto, Porto District, Portugal",
+    "host_about": "Gostamos de passear, de viajar, de conhecer pessoas e locais novos, gostamos de desporto e animais! Vivemos na cidade mais linda do mundo!!!",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/fab79f25-2e10-4f0f-9711-663cb69dc7d8.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/fab79f25-2e10-4f0f-9711-663cb69dc7d8.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": {
+      "$numberInt": "100"
+    },
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "3"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "3"
+    },
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "offline_government_id",
+      "government_id"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        {
+          "$numberDouble": "-8.61308"
+        },
+        {
+          "$numberDouble": "41.1413"
+        }
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "28"
+    },
+    "availability_60": {
+      "$numberInt": "47"
+    },
+    "availability_90": {
+      "$numberInt": "74"
+    },
+    "availability_365": {
+      "$numberInt": "239"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "9"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "9"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "10"
+    },
+    "review_scores_communication": {
+      "$numberInt": "10"
+    },
+    "review_scores_location": {
+      "$numberInt": "10"
+    },
+    "review_scores_value": {
+      "$numberInt": "9"
+    },
+    "review_scores_rating": {
+      "$numberInt": "89"
+    }
+  },
+  "reviews": [
+    {
+      "_id": "362865132",
+      "date": {
+        "$date": {
+          "$numberLong": "1545886800000"
+        }
+      },
+      "listing_id": "10006546",
+      "reviewer_id": "208880077",
+      "reviewer_name": "Thomas",
+      "comments": "Very helpful hosts. Cooked traditional..."
+    },
+    {
+      "_id": "364728730",
+      "date": {
+        "$date": {
+          "$numberLong": "1546232400000"
+        }
+      },
+      "listing_id": "10006546",
+      "reviewer_id": "91827533",
+      "reviewer_name": "Mr",
+      "comments": "Ana & Goncalo were great on communication..."
+    },
+    {
+      "_id": "403055315",
+      "date": {
+        "$date": {
+          "$numberLong": "1547960400000"
+        }
+      },
+      "listing_id": "10006546",
+      "reviewer_id": "15138940",
+      "reviewer_name": "Milo",
+      "comments": "The house was extremely well located..."
+    }
+  ]
+},
+{
+  "_id": "10006547",
+  "listing_url": "https://www.airbnb.com/rooms/10006547",
+  "name": "Cosy apt in the heart of Porto",
+  "summary": "A fully furnished apartment, with all the necessary amenities, located in the heart of Porto...",
+  "interaction": "We are available for any questions or assistance during your stay.",
+  "house_rules": "No smoking. No parties or events. Check-in time after 3:00 PM, checkout by 11:00 AM.",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "3",
+  "maximum_nights": "60",
+  "cancellation_policy": "strict",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1485902400000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1547960400000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "4"
+  },
+  "bedrooms": {
+    "$numberInt": "2"
+  },
+  "beds": {
+    "$numberInt": "2"
+  },
+  "number_of_reviews": {
+    "$numberInt": "35"
+  },
+  "bathrooms": {
+    "$numberDecimal": "1.5"
+  },
+  "amenities": [
+    "Wifi",
+    "Kitchen",
+    "Smoking allowed",
+    "Heating",
+    "Washer",
+    "Essentials",
+    "Hair dryer",
+    "Iron",
+    "Shampoo",
+    "Hangers",
+    "Laptop-friendly workspace",
+    "Private entrance",
+    "First aid kit"
+  ],
+  "price": {
+    "$numberDecimal": "70.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "150.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "25.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "10.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "3"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/7266ed13-6a35-4328-b7ea-65524d891ea3.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "51399392",
+    "host_url": "https://www.airbnb.com/users/show/51399392",
+    "host_name": "Joana",
+    "host_location": "Porto, Porto District, Portugal",
+    "host_about": "Passionate about travel and sharing experiences with guests from all over the world!",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/6e6ccaa5-37ec-4ad3-9673-0a8ad70701c7.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/6e6ccaa5-37ec-4ad3-9673-0a8ad70701c7.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": {
+      "$numberInt": "95"
+    },
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "5"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "5"
+    },
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "offline_government_id",
+      "government_id"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Santo Ildefonso",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        {
+          "$numberDouble": "-8.60981"
+        },
+        {
+          "$numberDouble": "41.15003"
+        }
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "20"
+    },
+    "availability_60": {
+      "$numberInt": "45"
+    },
+    "availability_90": {
+      "$numberInt": "75"
+    },
+    "availability_365": {
+      "$numberInt": "200"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "8"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "9"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "9"
+    },
+    "review_scores_communication": {
+      "$numberInt": "9"
+    },
+    "review_scores_location": {
+      "$numberInt": "9"
+    },
+    "review_scores_value": {
+      "$numberInt": "8"
+    },
+    "review_scores_rating": {
+      "$numberInt": "85"
+    }
+  },
+  "reviews": [
+    {
+      "_id": "362865133",
+      "date": {
+        "$date": {
+          "$numberLong": "1545886800000"
+        }
+      },
+      "listing_id": "10006547",
+      "reviewer_id": "208880078",
+      "reviewer_name": "John",
+      "comments": "Great location, cozy apartment, and friendly host!"
+    },
+    {
+      "_id": "364728731",
+      "date": {
+        "$date": {
+          "$numberLong": "1546232400000"
+        }
+      },
+      "listing_id": "10006547",
+      "reviewer_id": "91827534",
+      "reviewer_name": "Mrs",
+      "comments": "Had a wonderful stay, everything was just perfect."
+    },
+    {
+      "_id": "403055316",
+      "date": {
+        "$date": {
+          "$numberLong": "1547960400000"
+        }
+      },
+      "listing_id": "10006547",
+      "reviewer_id": "15138941",
+      "reviewer_name": "Alice",
+      "comments": "Highly recommend this place to anyone visiting Porto!"
+    }
+  ]
+},
+{
+  "_id": "10006548",
+  "listing_url": "https://www.airbnb.com/rooms/10006548",
+  "name": "Historical Apartment in Downtown",
+  "summary": "Experience the charm of a historical apartment in downtown Porto. This cozy space offers a comfortable stay...",
+  "interaction": "Feel free to reach out to us for any assistance or recommendations during your stay.",
+  "house_rules": "No smoking. Pets are not allowed. Quiet hours after 10:00 PM. Check-in time after 2:00 PM, checkout by 11:00 AM.",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "1",
+  "maximum_nights": "60",
+  "cancellation_policy": "flexible",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1477944000000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1547960400000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "2"
+  },
+  "bedrooms": {
+    "$numberInt": "1"
+  },
+  "beds": {
+    "$numberInt": "1"
+  },
+  "number_of_reviews": {
+    "$numberInt": "42"
+  },
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "Wifi",
+    "Kitchen",
+    "Heating",
+    "Washer",
+    "Essentials",
+    "Hair dryer",
+    "Iron",
+    "Shampoo",
+    "Hangers",
+    "Laptop-friendly workspace",
+    "Private entrance",
+    "First aid kit"
+  ],
+  "price": {
+    "$numberDecimal": "60.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "100.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "20.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "5.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/54232405/82db9d22_original.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "51399393",
+    "host_url": "https://www.airbnb.com/users/show/51399393",
+    "host_name": "Pedro",
+    "host_location": "Porto, Porto District, Portugal",
+    "host_about": "Passionate about sharing the history and culture of Porto with guests from all over the world!",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/9204778a-0185-4640-8084-9e62c61156ef.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/9204778a-0185-4640-8084-9e62c61156ef.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": {
+      "$numberInt": "90"
+    },
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "4"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "4"
+    },
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "offline_government_id",
+      "government_id"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        {
+          "$numberDouble": "-8.61308"
+        },
+        {
+          "$numberDouble": "41.1413"
+        }
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "25"
+    },
+    "availability_60": {
+      "$numberInt": "50"
+    },
+    "availability_90": {
+      "$numberInt": "80"
+    },
+    "availability_365": {
+      "$numberInt": "210"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "9"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "9"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "10"
+    },
+    "review_scores_communication": {
+      "$numberInt": "10"
+    },
+    "review_scores_location": {
+      "$numberInt": "9"
+    },
+    "review_scores_value": {
+      "$numberInt": "9"
+    },
+    "review_scores_rating": {
+      "$numberInt": "92"
+    }
+  },
+  "reviews": [
+    {
+      "_id": "362865134",
+      "date": {
+        "$date": {
+          "$numberLong": "1545886800000"
+        }
+      },
+      "listing_id": "10006548",
+      "reviewer_id": "208880079",
+      "reviewer_name": "Emily",
+      "comments": "Lovely apartment with a great historical vibe!"
+    },
+    {
+      "_id": "364728732",
+      "date": {
+        "$date": {
+          "$numberLong": "1546232400000"
+        }
+      },
+      "listing_id": "10006548",
+      "reviewer_id": "91827535",
+      "reviewer_name": "Dr",
+      "comments": "Had a fantastic stay, everything was just as described."
+    },
+    {
+      "_id": "403055317",
+      "date": {
+        "$date": {
+          "$numberLong": "1547960400000"
+        }
+      },
+      "listing_id": "10006548",
+      "reviewer_id": "15138942",
+      "reviewer_name": "Sophie",
+      "comments": "Would definitely stay here again!"
+    }
+  ]
+},
+{
+  "_id": "10006549",
+  "listing_url": "https://www.airbnb.com/rooms/10006549",
+  "name": "Modern Loft with River View",
+  "summary": "Enjoy stunning views of the river in this modern loft apartment. Perfect for a romantic getaway or a cozy retreat...",
+  "interaction": "We're available 24/7 to assist you with anything you need during your stay.",
+  "house_rules": "No smoking. Pets are not allowed. Quiet hours after 11:00 PM. Check-in time after 4:00 PM, checkout by 12:00 PM.",
+  "property_type": "Loft",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "45",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1550293200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1464739200000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1547960400000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "2"
+  },
+  "bedrooms": {
+    "$numberInt": "1"
+  },
+  "beds": {
+    "$numberInt": "1"
+  },
+  "number_of_reviews": {
+    "$numberInt": "38"
+  },
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": [
+    "Wifi",
+    "Kitchen",
+    "Heating",
+    "Washer",
+    "Essentials",
+    "Hair dryer",
+    "Iron",
+    "Shampoo",
+    "Hangers",
+    "Laptop-friendly workspace",
+    "Private entrance",
+    "First aid kit"
+  ],
+  "price": {
+    "$numberDecimal": "90.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "100.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "30.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "10.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/303c7525-d2c2-4c19-bfed-75989cf80f52.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "51399394",
+    "host_url": "https://www.airbnb.com/users/show/51399394",
+    "host_name": "Ricardo",
+    "host_location": "Porto, Porto District, Portugal",
+    "host_about": "Enthusiastic host passionate about providing exceptional experiences to guests!",
+    "host_response_time": "within a few hours",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/101a92b7-5e3a-4513-b19f-0cfec7b45d8e.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/101a92b7-5e3a-4513-b19f-0cfec7b45d8e.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "",
+    "host_response_rate": {
+      "$numberInt": "85"
+    },
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "6"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "6"
+    },
+    "host_verifications": [
+      "email",
+      "phone",
+      "reviews",
+      "jumio",
+      "offline_government_id",
+      "government_id"
+    ]
+  },
+  "address": {
+    "street": "Porto, Porto, Portugal",
+    "suburb": "",
+    "government_area": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",
+    "market": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        {
+          "$numberDouble": "-8.60981"
+        },
+        {
+          "$numberDouble": "41.15003"
+        }
+      ],
+      "is_location_exact": false
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "22"
+    },
+    "availability_60": {
+      "$numberInt": "48"
+    },
+    "availability_90": {
+      "$numberInt": "75"
+    },
+    "availability_365": {
+      "$numberInt": "200"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "9"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "9"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "10"
+    },
+    "review_scores_communication": {
+      "$numberInt": "10"
+    },
+    "review_scores_location": {
+      "$numberInt": "9"
+    },
+    "review_scores_value": {
+      "$numberInt": "9"
+    },
+    "review_scores_rating": {
+      "$numberInt": "92"
+    }
+  },
+  "reviews": [
+    {
+      "_id": "362865135",
+      "date": {
+        "$date": {
+          "$numberLong": "1545886800000"
+        }
+      },
+      "listing_id": "10006549",
+      "reviewer_id": "208880080",
+      "reviewer_name": "Olivia",
+      "comments": "Amazing loft with breathtaking views!"
+    },
+    {
+      "_id": "364728733",
+      "date": {
+        "$date": {
+          "$numberLong": "1546232400000"
+        }
+      },
+      "listing_id": "10006549",
+      "reviewer_id": "91827536",
+      "reviewer_name": "Ms",
+      "comments": "Great location and very stylish apartment!"
+    },
+    {
+      "_id": "403055318",
+      "date": {
+        "$date": {
+          "$numberLong": "1547960400000"
+        }
+      },
+      "listing_id": "10006549",
+      "reviewer_id": "15138943",
+      "reviewer_name": "Michael",
+      "comments": "Would love to stay here again in the future!"
+    }
+  ]
+}
